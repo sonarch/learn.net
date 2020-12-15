@@ -1,0 +1,14 @@
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\DotNetCoreEveryWhere.exe
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\DotNetCoreEveryWhere.deps.json
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\DotNetCoreEveryWhere.runtimeconfig.json
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\DotNetCoreEveryWhere.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\DotNetCoreEveryWhere.dll
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\ref\DotNetCoreEveryWhere.dll
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.dll
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\ref\DotNetCoreEveryWhere.dll
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\obj\Release\net5.0\win10-x64\DotNetCoreEveryWhere.genruntimeconfig.cache

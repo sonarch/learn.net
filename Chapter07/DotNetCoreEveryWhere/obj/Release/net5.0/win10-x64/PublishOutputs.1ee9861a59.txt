@@ -1,0 +1,1 @@
+D:\my_projects\learn.net\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\win10-x64\publish\DotNetCoreEveryWhere.exe

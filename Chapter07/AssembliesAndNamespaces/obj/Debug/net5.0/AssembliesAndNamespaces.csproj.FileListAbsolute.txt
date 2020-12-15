@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\AssembliesAndNamespaces.exe
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\AssembliesAndNamespaces.deps.json
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\AssembliesAndNamespaces.runtimeconfig.json
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\AssembliesAndNamespaces.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\AssembliesAndNamespaces.dll
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\ref\AssembliesAndNamespaces.dll
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\bin\Debug\net5.0\AssembliesAndNamespaces.pdb
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.dll
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\ref\AssembliesAndNamespaces.dll
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.pdb
+D:\my_projects\learn.net\Chapter07\AssembliesAndNamespaces\obj\Debug\net5.0\AssembliesAndNamespaces.genruntimeconfig.cache

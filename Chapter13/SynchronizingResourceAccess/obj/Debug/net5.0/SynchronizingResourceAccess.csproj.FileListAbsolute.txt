@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.exe
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.deps.json
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.runtimeconfig.json
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.dll
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\ref\SynchronizingResourceAccess.dll
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.pdb
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.dll
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\ref\SynchronizingResourceAccess.dll
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.pdb
+D:\my_projects\learn.net\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.genruntimeconfig.cache

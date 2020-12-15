@@ -1,0 +1,9 @@
+D:\my_projects\learn.net\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\my_projects\learn.net\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\my_projects\learn.net\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\my_projects\learn.net\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\my_projects\learn.net\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

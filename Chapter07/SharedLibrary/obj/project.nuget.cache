@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "94NHSavsBswdiyBpQBBx/AviobfiT+kPSIk0Cl8TLDgSEy/dlrf9+DxdvTX9RgAS8N2V2z6owTTmNeNIy4va/Q==",
+  "success": true,
+  "projectFilePath": "d:\\my_projects\\learn.net\\Chapter07\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phams\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phams\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\WorkingWithTask.exe
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\WorkingWithTask.deps.json
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\WorkingWithTask.runtimeconfig.json
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\WorkingWithTask.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\WorkingWithTask.dll
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\ref\WorkingWithTask.dll
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\bin\Debug\net5.0\WorkingWithTask.pdb
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.dll
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\ref\WorkingWithTask.dll
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.pdb
+D:\my_projects\learn.net\Chapter13\WorkingWithTask\obj\Debug\net5.0\WorkingWithTask.genruntimeconfig.cache

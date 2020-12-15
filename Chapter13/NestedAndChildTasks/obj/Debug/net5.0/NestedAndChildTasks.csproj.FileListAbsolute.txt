@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.exe
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.deps.json
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.json
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.dll
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\ref\NestedAndChildTasks.dll
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.pdb
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.dll
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\ref\NestedAndChildTasks.dll
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.pdb
+D:\my_projects\learn.net\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.genruntimeconfig.cache

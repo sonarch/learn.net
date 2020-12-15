@@ -1,0 +1,12 @@
+D:\my_projects\learn.net\Chapter06\PacktLibrary\bin\Debug\net5.0\PacktLibrary.deps.json
+D:\my_projects\learn.net\Chapter06\PacktLibrary\bin\Debug\net5.0\PacktLibrary.dll
+D:\my_projects\learn.net\Chapter06\PacktLibrary\bin\Debug\net5.0\ref\PacktLibrary.dll
+D:\my_projects\learn.net\Chapter06\PacktLibrary\bin\Debug\net5.0\PacktLibrary.pdb
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.dll
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\ref\PacktLibrary.dll
+D:\my_projects\learn.net\Chapter06\PacktLibrary\obj\Debug\net5.0\PacktLibrary.pdb

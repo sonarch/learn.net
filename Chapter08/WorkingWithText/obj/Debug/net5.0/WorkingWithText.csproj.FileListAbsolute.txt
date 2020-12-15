@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.exe
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.deps.json
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.json
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.dll
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\ref\WorkingWithText.dll
+D:\my_projects\learn.net\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.pdb
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.dll
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\ref\WorkingWithText.dll
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.pdb
+D:\my_projects\learn.net\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.genruntimeconfig.cache

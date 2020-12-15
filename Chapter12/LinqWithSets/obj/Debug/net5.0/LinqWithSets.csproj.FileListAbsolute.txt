@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.exe
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.deps.json
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.json
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.dll
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\ref\LinqWithSets.dll
+D:\my_projects\learn.net\Chapter12\LinqWithSets\bin\Debug\net5.0\LinqWithSets.pdb
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.dll
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\ref\LinqWithSets.dll
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.pdb
+D:\my_projects\learn.net\Chapter12\LinqWithSets\obj\Debug\net5.0\LinqWithSets.genruntimeconfig.cache

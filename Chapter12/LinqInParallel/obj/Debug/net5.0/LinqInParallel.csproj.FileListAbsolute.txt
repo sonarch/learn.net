@@ -1,0 +1,16 @@
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.csprojAssemblyReference.cache
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.AssemblyInfoInputs.cache
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.AssemblyInfo.cs
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.csproj.CoreCompileInputs.cache
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.exe
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.deps.json
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.runtimeconfig.json
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.runtimeconfig.dev.json
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.dll
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\ref\LinqInParallel.dll
+D:\my_projects\learn.net\Chapter12\LinqInParallel\bin\Debug\net5.0\LinqInParallel.pdb
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.dll
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\ref\LinqInParallel.dll
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.pdb
+D:\my_projects\learn.net\Chapter12\LinqInParallel\obj\Debug\net5.0\LinqInParallel.genruntimeconfig.cache
