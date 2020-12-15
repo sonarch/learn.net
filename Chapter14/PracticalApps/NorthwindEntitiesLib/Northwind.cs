@@ -41,24 +41,24 @@ namespace Packt.Shared
         {
             modelBuilder.Entity<Category>(entity =>
             {
-                entity.Property(e => e.CategoryId).ValueGeneratedNever();
+                entity.Property(e => e.CategoryID).ValueGeneratedNever();
             });
 
             modelBuilder.Entity<Employee>(entity =>
             {
-                entity.Property(e => e.EmployeeId).ValueGeneratedNever();
+                entity.Property(e => e.EmployeeID).ValueGeneratedNever();
             });
 
             modelBuilder.Entity<Order>(entity =>
             {
-                entity.Property(e => e.OrderId).ValueGeneratedNever();
+                entity.Property(e => e.OrderID).ValueGeneratedNever();
 
                 entity.Property(e => e.Freight).HasDefaultValueSql("0");
             });
 
             modelBuilder.Entity<OrderDetail>(entity =>
             {
-                entity.HasKey(e => new { e.OrderId, e.ProductId });
+                entity.HasKey(e => new { e.OrderID, e.ProductID });
 
                 entity.Property(e => e.Quantity).HasDefaultValueSql("1");
 
@@ -66,18 +66,18 @@ namespace Packt.Shared
 
                 entity.HasOne(d => d.Order)
                     .WithMany(p => p.OrderDetails)
-                    .HasForeignKey(d => d.OrderId)
+                    .HasForeignKey(d => d.OrderID)
                     .OnDelete(DeleteBehavior.ClientSetNull);
 
                 entity.HasOne(d => d.Product)
                     .WithMany(p => p.OrderDetails)
-                    .HasForeignKey(d => d.ProductId)
+                    .HasForeignKey(d => d.ProductID)
                     .OnDelete(DeleteBehavior.ClientSetNull);
             });
 
             modelBuilder.Entity<Product>(entity =>
             {
-                entity.Property(e => e.ProductId).ValueGeneratedNever();
+                entity.Property(e => e.ProductID).ValueGeneratedNever();
 
                 entity.Property(e => e.Discontinued).HasDefaultValueSql("0");
 
@@ -92,12 +92,12 @@ namespace Packt.Shared
 
             modelBuilder.Entity<Shipper>(entity =>
             {
-                entity.Property(e => e.ShipperId).ValueGeneratedNever();
+                entity.Property(e => e.ShipperID).ValueGeneratedNever();
             });
 
             modelBuilder.Entity<Supplier>(entity =>
             {
-                entity.Property(e => e.SupplierId).ValueGeneratedNever();
+                entity.Property(e => e.SupplierID).ValueGeneratedNever();
             });
 
             OnModelCreatingPartial(modelBuilder);

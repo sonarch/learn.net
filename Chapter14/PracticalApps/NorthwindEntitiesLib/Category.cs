@@ -17,10 +17,10 @@ namespace Packt.Shared
         }
 
         [Key]
-        [Column("CategoryID")]
-        public long CategoryId { get; set; }
+        public long CategoryID { get; set; }
         [Required]
         [Column(TypeName = "nvarchar (15)")]
+        [StringLength(15)]
         public string CategoryName { get; set; }
         [Column(TypeName = "ntext")]
         public string Description { get; set; }
